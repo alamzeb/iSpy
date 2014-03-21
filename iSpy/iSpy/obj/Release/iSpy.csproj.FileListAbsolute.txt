@@ -1,6 +1,0 @@
-F:\Projects\iSpy\iSpy\iSpy\bin\Release\iSpy.exe
-F:\Projects\iSpy\iSpy\iSpy\bin\Release\iSpy.pdb
-F:\Projects\iSpy\iSpy\iSpy\obj\Release\iSpy.ProjectInstaller.resources
-F:\Projects\iSpy\iSpy\iSpy\obj\Release\iSpy.csproj.GenerateResource.Cache
-F:\Projects\iSpy\iSpy\iSpy\obj\Release\iSpy.exe
-F:\Projects\iSpy\iSpy\iSpy\obj\Release\iSpy.pdb

@@ -1,5 +1,0 @@
-F:\Projects\iSpy\iSpy\iSpy\bin\Debug\iSpy.exe
-F:\Projects\iSpy\iSpy\iSpy\bin\Debug\iSpy.pdb
-F:\Projects\iSpy\iSpy\iSpy\obj\Debug\iSpy.csprojResolveAssemblyReference.cache
-F:\Projects\iSpy\iSpy\iSpy\obj\Debug\iSpy.exe
-F:\Projects\iSpy\iSpy\iSpy\obj\Debug\iSpy.pdb

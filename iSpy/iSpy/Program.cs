@@ -10,6 +10,7 @@ namespace iSpy
     {
         /// <summary>
         /// The main entry point for the application.
+        /// just
         /// </summary>
         static void Main()
         {

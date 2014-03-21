@@ -15,13 +15,18 @@ namespace iSpy
         {
             InitializeComponent();
         }
-
+        public void onDebug()
+        {
+            OnStart(null);
+        }
         protected override void OnStart(string[] args)
         {
+            System.IO.File.Create(AppDomain.CurrentDomain.BaseDirectory + "Started.txt");
         }
 
         protected override void OnStop()
         {
+            System.IO.File.Create(AppDomain.CurrentDomain.BaseDirectory + "Stoped.txt");
         }
     }
 }

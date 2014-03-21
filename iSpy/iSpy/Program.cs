@@ -13,12 +13,19 @@ namespace iSpy
         /// </summary>
         static void Main()
         {
+#if DEBUG
+            iSpyDetector objDetector = new iSpyDetector();
+            objDetector.onDebug();
+            System.Threading.Thread.Sleep(System.Threading.Timeout.Infinite);
+
+#else
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[] 
             { 
                 new iSpyDetector() 
             };
             ServiceBase.Run(ServicesToRun);
+#endif
         }
     }
 }
